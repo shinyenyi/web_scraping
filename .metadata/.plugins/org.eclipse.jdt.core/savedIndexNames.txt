@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/miguel/Desktop/web scraping/.metadata/.plugins/org.eclipse.jdt.core
+214705336.index
+82579723.index
